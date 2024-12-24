@@ -20,5 +20,5 @@ To get started with Compact Wahan on your project or prototype vehicle, follow t
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Shikhara17/CompactWahan.git
-   cd compact-wahan
+   cd CompactWahan
 
