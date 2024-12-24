@@ -1,6 +1,5 @@
 # CompactWahan
 
-# Compact Wahan
 
 ## Introduction
 **Compact Wahan** is a cutting-edge IoT-based prototype for self-driving vehicles equipped with advanced smart features. This project is engineered to enhance vehicular safety and autonomy, incorporating self-parking capabilities, obstacle detection, and accident detection, all facilitated through an integrated network of sensors.
